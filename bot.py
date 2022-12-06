@@ -14,9 +14,9 @@ import time
 
 from copy import copy
 
-owner = 602322458
+owner = 677016482
 
-programmer = 410682652
+programmer = 677016482
 
 one = False
 
@@ -394,7 +394,7 @@ async def get_income_handler(message: Message):
 
     for inv in users[ID]["inventory"]:
 
-        inc += income[inv] * (users[ID]["inventory"][inv]) * ((int(time.time()) - users[ID]["cooldowns"]["servers"]) // 2629746)
+        inc += income[inv] * (users[ID]["inventory"][inv]) * ((int(time.time()) - users[ID]["cooldowns"]["servers"]) // 3600)
 
     users[ID]["cooldowns"]["servers"] = int(time.time())
 
