@@ -22,7 +22,7 @@ one = False
 
 an = 0
 
-bot = Bot("vk1.a.QE6CW5ESR3FGxQRIgcqRGmS-ECaU6VWiTYKJmCqJcAwNW7jXAIQd_2R-zLXVTvTGwj1-bbCsW9lXbX-D_PAdlQ_ui58xLFjL8BFcMygPs4WzhwPmvJ8WR-EScNcOcO5fR4KlS4COCfVNM8RE1X2btLj6ZkIynmjrgohE3F4lgHhgCLW5SDa3r0yN40OKH6SSIog4k1EQfqX5h30mc2DTvw")
+bot = Bot("vkvk1.a.0Ovc1cOuRuJkG1O8QlQJKkycirW8NPb8ImCGmFhc-kqqBhar50VfqpkD9HFWRLVN0DfAbm3fjc78FBqN38M5w6vrvkufueLDA52b2vdeBc_BI84naLLILh3mLV61jIuP5ZMuyGlPC_sAkddYcTEAprt8pSoiITPM_tndNWef00eSk3OMK5Dqr1n6xzrcRXgf9SxRHR_t917gz5JRUn85bgX2btLj6ZkIynmjrgohE3F4lgHhgCLW5SDa3r0yN40OKH6SSIog4k1EQfqX5h30mc2DTvw")
 
 pre_users = loads(open("JSON/Users.json").read())
 
